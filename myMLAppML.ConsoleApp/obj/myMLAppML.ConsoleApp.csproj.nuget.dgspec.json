@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {}
+    "C:\\Source\\FirstProjectML\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {
+    "C:\\Source\\FirstProjectML\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Source\\FirstProjectML\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
         "projectName": "myMLAppML.ConsoleApp",
-        "projectPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\daraks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\obj\\",
+        "projectPath": "C:\\Source\\FirstProjectML\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\DaraKimberlydeSouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\FirstProjectML\\myMLAppML.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\daraks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DaraKimberlydeSouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj": {
-                "projectPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj"
+              "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj": {
+                "projectPath": "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj"
               }
             }
           }
@@ -68,24 +70,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj": {
+    "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj",
+        "projectUniqueName": "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj",
         "projectName": "myMLAppML.Model",
-        "projectPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj",
-        "packagesPath": "C:\\Users\\daraks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\obj\\",
+        "projectPath": "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj",
+        "packagesPath": "C:\\Users\\DaraKimberlydeSouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\FirstProjectML\\myMLAppML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\daraks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DaraKimberlydeSouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -133,7 +137,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
