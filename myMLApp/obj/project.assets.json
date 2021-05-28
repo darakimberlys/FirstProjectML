@@ -3334,23 +3334,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\daraks\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\DaraKimberlydeSouza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLApp\\myMLApp.csproj",
+      "projectUniqueName": "C:\\Source\\FirstProjectML\\myMLApp\\myMLApp.csproj",
       "projectName": "myMLApp",
-      "projectPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLApp\\myMLApp.csproj",
-      "packagesPath": "C:\\Users\\daraks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLApp\\obj\\",
+      "projectPath": "C:\\Source\\FirstProjectML\\myMLApp\\myMLApp.csproj",
+      "packagesPath": "C:\\Users\\DaraKimberlydeSouza\\.nuget\\packages\\",
+      "outputPath": "C:\\Source\\FirstProjectML\\myMLApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\daraks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DaraKimberlydeSouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3365,8 +3368,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj": {
-              "projectPath": "C:\\Users\\daraks\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj"
+            "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj": {
+              "projectPath": "C:\\Source\\FirstProjectML\\myMLAppML.Model\\myMLAppML.Model.csproj"
             }
           }
         }
@@ -3395,7 +3398,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ namespace MyMLAppML.Model
         public string SentimentText { get; set; }
 
 
-        [ColumnName("LoggedIn"), LoadColumn(2)]
+        [ColumnName("LoggedInY"), LoadColumn(2)]
         public string LoggedIn { get; set; }
 
 
